@@ -12,7 +12,7 @@ The plugin adds a new metabox in edit post screen and in category edit screen th
 Using The WordPress Dashboard
 
 1. Navigate to the 'Add New' Plugin Dashboard
-2. Select wp-feed-filter.zip from your computer
+2. Select wp-feed-filter-master.zip from your computer
 3. Upload
 3. Activate the plugin on the WordPress Plugin Dashboard
 
